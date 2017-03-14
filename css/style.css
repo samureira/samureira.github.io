@@ -49,7 +49,7 @@ img {
 }
 .banner {
 	color: #D5D6D2;
-	background: linear-gradient(rgba(94,206,127,.6), rgba(57,173,209,.6)), url('../img/bg.png');
+	background: linear-gradient(rgba(94,206,127,.6), rgba(57,173,209,.6)), url('../img/bg.jpg');
 
 	background-size: cover;
 	padding: 3.2em 0;
@@ -90,6 +90,10 @@ img {
 .item img {
 	border: solid 1px #1A3050;
 	padding: 8px;
+}
+
+#github {
+	width: 5%;
 }
 
 /* ================================= 
